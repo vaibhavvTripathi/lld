@@ -1,0 +1,14 @@
+C:\Users\Vaibhav\lld\parking-lot\bin\Debug\net8.0\parking-lot.exe
+C:\Users\Vaibhav\lld\parking-lot\bin\Debug\net8.0\parking-lot.deps.json
+C:\Users\Vaibhav\lld\parking-lot\bin\Debug\net8.0\parking-lot.runtimeconfig.json
+C:\Users\Vaibhav\lld\parking-lot\bin\Debug\net8.0\parking-lot.dll
+C:\Users\Vaibhav\lld\parking-lot\bin\Debug\net8.0\parking-lot.pdb
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.AssemblyInfo.cs
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.dll
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\refint\parking-lot.dll
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.pdb
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\parking-lot.genruntimeconfig.cache
+C:\Users\Vaibhav\lld\parking-lot\obj\Debug\net8.0\ref\parking-lot.dll
