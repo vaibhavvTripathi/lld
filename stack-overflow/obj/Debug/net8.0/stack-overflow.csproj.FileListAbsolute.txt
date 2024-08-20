@@ -1,0 +1,15 @@
+C:\Users\Vaibhav\lld\stack-overflow\bin\Debug\net8.0\stack-overflow.exe
+C:\Users\Vaibhav\lld\stack-overflow\bin\Debug\net8.0\stack-overflow.deps.json
+C:\Users\Vaibhav\lld\stack-overflow\bin\Debug\net8.0\stack-overflow.runtimeconfig.json
+C:\Users\Vaibhav\lld\stack-overflow\bin\Debug\net8.0\stack-overflow.dll
+C:\Users\Vaibhav\lld\stack-overflow\bin\Debug\net8.0\stack-overflow.pdb
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.AssemblyInfo.cs
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.sourcelink.json
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.dll
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\refint\stack-overflow.dll
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.pdb
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\stack-overflow.genruntimeconfig.cache
+C:\Users\Vaibhav\lld\stack-overflow\obj\Debug\net8.0\ref\stack-overflow.dll
