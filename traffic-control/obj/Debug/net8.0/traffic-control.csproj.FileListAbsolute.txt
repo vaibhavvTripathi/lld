@@ -1,0 +1,15 @@
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.AssemblyInfo.cs
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.sourcelink.json
+C:\Users\Vaibhav\lld\traffic-control\bin\Debug\net8.0\traffic-control.exe
+C:\Users\Vaibhav\lld\traffic-control\bin\Debug\net8.0\traffic-control.deps.json
+C:\Users\Vaibhav\lld\traffic-control\bin\Debug\net8.0\traffic-control.runtimeconfig.json
+C:\Users\Vaibhav\lld\traffic-control\bin\Debug\net8.0\traffic-control.dll
+C:\Users\Vaibhav\lld\traffic-control\bin\Debug\net8.0\traffic-control.pdb
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.dll
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\refint\traffic-control.dll
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.pdb
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\traffic-control.genruntimeconfig.cache
+C:\Users\Vaibhav\lld\traffic-control\obj\Debug\net8.0\ref\traffic-control.dll
