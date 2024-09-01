@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
+      "projectUniqueName": "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
       "projectName": "traffic-control",
-      "projectPath": "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
+      "projectPath": "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
       "packagesPath": "C:\\Users\\Vaibhav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vaibhav\\lld\\traffic-control\\obj\\",
+      "outputPath": "c:\\Users\\Vaibhav\\lld\\traffic-control\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vaibhav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,5 +64,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.08.17.05.29.13/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
 }

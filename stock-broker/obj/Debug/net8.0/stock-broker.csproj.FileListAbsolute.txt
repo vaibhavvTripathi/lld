@@ -1,0 +1,15 @@
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.AssemblyInfo.cs
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.sourcelink.json
+C:\Users\Vaibhav\lld\stock-broker\bin\Debug\net8.0\stock-broker.exe
+C:\Users\Vaibhav\lld\stock-broker\bin\Debug\net8.0\stock-broker.deps.json
+C:\Users\Vaibhav\lld\stock-broker\bin\Debug\net8.0\stock-broker.runtimeconfig.json
+C:\Users\Vaibhav\lld\stock-broker\bin\Debug\net8.0\stock-broker.dll
+C:\Users\Vaibhav\lld\stock-broker\bin\Debug\net8.0\stock-broker.pdb
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.dll
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\refint\stock-broker.dll
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.pdb
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\stock-broker.genruntimeconfig.cache
+C:\Users\Vaibhav\lld\stock-broker\obj\Debug\net8.0\ref\stock-broker.dll

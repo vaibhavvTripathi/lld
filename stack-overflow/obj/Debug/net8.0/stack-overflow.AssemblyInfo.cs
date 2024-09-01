@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stack-overflow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd78ac36aab65bfa42c6aee83f3c2b4c26d45b31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+263a14c996c84873614b1bb8aa6db1338955196c")]
 [assembly: System.Reflection.AssemblyProductAttribute("stack-overflow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stack-overflow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

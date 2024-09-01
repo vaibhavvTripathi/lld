@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj": {}
+    "c:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj": {
+    "c:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj",
+        "projectUniqueName": "c:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj",
         "projectName": "parking-lot",
-        "projectPath": "C:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj",
+        "projectPath": "c:\\Users\\Vaibhav\\lld\\parking-lot\\parking-lot.csproj",
         "packagesPath": "C:\\Users\\Vaibhav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vaibhav\\lld\\parking-lot\\obj\\",
+        "outputPath": "c:\\Users\\Vaibhav\\lld\\parking-lot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vaibhav\\AppData\\Roaming\\NuGet\\NuGet.Config",

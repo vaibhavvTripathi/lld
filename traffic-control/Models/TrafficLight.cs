@@ -8,6 +8,7 @@ public class TrafficLight : ISubject
     private RedSignal RedSignal { get; set; }
     private GreenSignal GreenSignal { get; set; }
     private YellowSignal YellowSignal { get; set; }
+    private Object _lockObject { get; } = new object();
     public TrafficLight(int red, int yellow, int green, State initalState)
     {
         this.RedSignal = new RedSignal(red);
@@ -21,7 +22,6 @@ public class TrafficLight : ISubject
     {
         Console.WriteLine("Emergency mode !!");
         SetState(State.GREEN);
-        Notify();
     }
     public void Attach(IObserver observer)
     {
@@ -35,11 +35,11 @@ public class TrafficLight : ISubject
         observer.DetachSubject();
     }
 
-    public void SetState(State state)
+    private void HandleNewState(State state)
     {
-
         this.CurrentState = state;
         Notify();
+        Console.WriteLine($"{CurrentState} light is on");
         if (this.CurrentState == State.GREEN)
         {
             Thread.Sleep(GreenSignal.Duration);
@@ -52,6 +52,13 @@ public class TrafficLight : ISubject
         {
             Thread.Sleep(RedSignal.Duration);
         }
+        Console.WriteLine($"{CurrentState} light is over");
+    }
+    public void SetState(State state)
+    {
+        
+            HandleNewState(state);
+        
     }
     public void Notify()
     {

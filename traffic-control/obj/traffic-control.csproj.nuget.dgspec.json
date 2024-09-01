@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj": {}
+    "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj": {
+    "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
+        "projectUniqueName": "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
         "projectName": "traffic-control",
-        "projectPath": "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
+        "projectPath": "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
         "packagesPath": "C:\\Users\\Vaibhav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vaibhav\\lld\\traffic-control\\obj\\",
+        "outputPath": "c:\\Users\\Vaibhav\\lld\\traffic-control\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vaibhav\\AppData\\Roaming\\NuGet\\NuGet.Config",

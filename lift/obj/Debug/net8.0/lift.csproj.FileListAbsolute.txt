@@ -1,0 +1,15 @@
+C:\Users\Vaibhav\lld\lift\bin\Debug\net8.0\lift.exe
+C:\Users\Vaibhav\lld\lift\bin\Debug\net8.0\lift.deps.json
+C:\Users\Vaibhav\lld\lift\bin\Debug\net8.0\lift.runtimeconfig.json
+C:\Users\Vaibhav\lld\lift\bin\Debug\net8.0\lift.dll
+C:\Users\Vaibhav\lld\lift\bin\Debug\net8.0\lift.pdb
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.AssemblyInfoInputs.cache
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.AssemblyInfo.cs
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.csproj.CoreCompileInputs.cache
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.sourcelink.json
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.dll
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\refint\lift.dll
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.pdb
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\lift.genruntimeconfig.cache
+C:\Users\Vaibhav\lld\lift\obj\Debug\net8.0\ref\lift.dll

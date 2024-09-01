@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zKSecBs4sUMEWcU1PK1+H/AA4ZSDQLVWswumSOPTvg1mTnWRx5VxRiSOyfnpUd1VK/n2JQzyKgPQMoFPEi4ypw==",
+  "dgSpecHash": "TmVtqBKxArxIW6k+/gNSh561nqhUkOGl40+vxyF35dAA+kzRsvsIUMO5TA/H79rHvUPSNumXK+NPiGOaADyqmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
+  "projectFilePath": "c:\\Users\\Vaibhav\\lld\\traffic-control\\traffic-control.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.08.17.05.29.13/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
 }

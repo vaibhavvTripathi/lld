@@ -1,0 +1,19 @@
+Chess game : 
+ - Entities : 
+   - Board.
+   - Cell.
+   - Player.
+   - Piece.
+  - Pieces and Moves :
+   - King.
+   - Queen.
+   - Rook.
+   - Bishop.
+   - Knight.
+   - Pawn.
+
+Expectations : 
+   - Functioning.
+   - Modular.
+   - Adaptive.
+   - OOPs.
